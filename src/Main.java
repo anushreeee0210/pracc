@@ -5,3 +5,5 @@
 //1st way is from terminal which u know has linux and 2nd is from direct botton
 
 //terminal mein
+
+java ka code
